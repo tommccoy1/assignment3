@@ -2,9 +2,9 @@
 
 Due Date: 5/4, 2:00 PM
 
-**Name:** FILL IN
+**Name:** Tom McCoy
 
-**Email:** FILL IN
+**Email:** tom.mccoy@jhu.edu
 
 ## Getting started
 Instructions for the tasks are included in the jupyter notebook, run `jupyter
